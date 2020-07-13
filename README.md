@@ -8,7 +8,6 @@ Make sure you have docker installed on your device.
 1.Run docker
 2.Run the next command:
 `docker run -it -p 8888:8888 jupyter/pyspark-notebook`
-
 3.Upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter.
 4.Follow instructions and write your findings in chat! 
 
