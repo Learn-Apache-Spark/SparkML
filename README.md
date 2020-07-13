@@ -20,5 +20,5 @@ It's recommend to have both in your Jupyter environment before course starts.
 
 
 # License:
-This is part of an Online Course for Learning Spark ML with PySpark.
-If you would like to use it not as part of the online course, please contact me on [Twitter](https://twitter.com/AdiPolak).
+This is part of an O'Reilly Online Course for Learning Spark ML with PySpark produced by Adi Polak.
+If you would like to use it not as part of the online course, please contact Adi Polak on [Twitter](https://twitter.com/AdiPolak).
