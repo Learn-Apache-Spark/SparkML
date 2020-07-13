@@ -25,6 +25,6 @@ It's recommend to have both in your Jupyter environment before course starts.
 
 
 # License:
-This is part of the O'Reilly Online Course: Spark ML First steps produced by Adi Polak.
+This exercise is part of the O'Reilly Online Course: Spark ML First Steps produced and delivered by Adi Polak.
 
-If you would like to use it not as part of the online course, please contact Adi Polak first for approval on [Twitter](https://twitter.com/AdiPolak).
+If you would like to use it not as part of the online course, please contact Adi Polak on [Twitter](https://twitter.com/AdiPolak).
