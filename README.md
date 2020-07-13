@@ -1,10 +1,5 @@
 # SparkML
-Spark ML with pyspark
-
-This is part of an Online Course for Learning Spark ML with PySpark.
-
-
-For using it, please contact me on [Twitter](https://twitter.com/AdiPolak).
+Take your first steps with Spark ML and pyspark
 
 # Getting started:
 Make sure you have docker installed on your device.
@@ -22,3 +17,8 @@ Exercise folder containes the exercise chapters.
 Solution folder containes the solution for the exercise.
 
 It's recommend to have both in your Jupyter environment before course starts.
+
+
+# License:
+This is part of an Online Course for Learning Spark ML with PySpark.
+If you would like to use it not as part of the online course, please contact me on [Twitter](https://twitter.com/AdiPolak).
