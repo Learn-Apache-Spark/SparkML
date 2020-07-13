@@ -20,6 +20,6 @@ It's recommend to have both in your Jupyter environment before course starts.
 
 
 # License:
-This is part of an O'Reilly Online Course for Learning Spark ML with PySpark produced by Adi Polak.
+This is part of the O'Reilly Online Course: Spark ML First steps produced by Adi Polak.
 
-If you would like to use it not as part of the online course, please contact Adi Polak on [Twitter](https://twitter.com/AdiPolak).
+If you would like to use it not as part of the online course, please contact Adi Polak first for approval on [Twitter](https://twitter.com/AdiPolak).
