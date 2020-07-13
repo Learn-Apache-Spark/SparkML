@@ -1,6 +1,6 @@
 # SparkML
 Take your first steps with Spark ML and pyspark.
-Time to gain hands-on experience! 
+Get hands-on experience with Spark ML First steps course!
 
 # Getting started:
 Make sure you have docker installed on your device.
