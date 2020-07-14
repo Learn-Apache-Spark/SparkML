@@ -11,7 +11,7 @@ Make sure you have docker installed on your device.
 
 2. Run the next command:
 
-`docker run -it -p 8888:8888 jupyter/pyspark-notebook`
+    `docker run -it -p 8888:8888 jupyter/pyspark-notebook`
 
 3. Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
