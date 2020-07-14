@@ -1,6 +1,8 @@
 # SparkML
 Take your first steps with Spark ML and pyspark.
 Gain understanding of Spark ML with unique hands-on experience with Spark ML First steps course!
+Under notebooks, you will fine the `Exercise` and `Solution` libaraies.
+You can download everything from there, or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
 # Getting started:
 Make sure you have docker installed on your device.
