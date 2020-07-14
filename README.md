@@ -1,8 +1,8 @@
 # SparkML
 Take your first steps with Spark ML and pyspark.
 Gain understanding of Spark ML with unique hands-on experience with Spark ML First steps course!
-Under notebooks, you will fine the `Exercise` and `Solution` libaraies.
-You can download everything from there, or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
+
+
 
 # Getting started:
 Make sure you have docker installed on your device.
@@ -13,9 +13,11 @@ Make sure you have docker installed on your device.
 
 `docker run -it -p 8888:8888 jupyter/pyspark-notebook`
 
-3.Upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter.
+3.Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
-4.Follow instructions and write your findings in chat! 
+4.Exctracte files and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter.
+
+5.Follow instructions and write your findings in chat! 
 
 
 
