@@ -7,17 +7,17 @@ Gain understanding of Spark ML with unique hands-on experience with Spark ML Fir
 # Getting started:
 Make sure you have docker installed on your device.
 
-1.Run docker
+1. Run docker
 
-2.Run the next command:
+2. Run the next command:
 
 `docker run -it -p 8888:8888 jupyter/pyspark-notebook`
 
-3.Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
+3. Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
-4.Exctracte files and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter.
+4. Exctracte files and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter.
 
-5.Follow instructions and write your findings in chat! 
+5. Follow instructions and write your findings in chat! 
 
 
 
