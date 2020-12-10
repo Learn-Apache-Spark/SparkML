@@ -15,7 +15,7 @@ Make sure you have docker installed on your device.
 
 3. Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
-4. Exctracte files and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter.
+4. Extracte the files(unzip) and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter using the upload button.
 
 5. Follow instructions and write your findings in chat! 
 
