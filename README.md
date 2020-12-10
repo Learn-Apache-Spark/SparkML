@@ -31,9 +31,9 @@ Make sure you have docker installed on your device.
     Or copy and paste one of these URLs:
         http://0a3437183fee:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
      or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
-```
+    ```
 
-Copy the **last** url with the token:
+Copy the **LAST** url with the `token=`:
 ```bash
 http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
 ```
