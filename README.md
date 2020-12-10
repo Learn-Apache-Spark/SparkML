@@ -37,8 +37,10 @@ Copy the **LAST** url with the `token=`:
 ```bash
 http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
 ```
-and past it in your browswer. 
+past it in your browswer. 
 This will be your jupyter work environment for the course.
+
+
 
 3. Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
