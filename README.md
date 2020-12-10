@@ -17,17 +17,15 @@ Make sure you have docker installed on your device.
    You will get similar answer back:
    ```bash
    Executing the command: jupyter notebook
-[I 15:49:48.293 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-[I 15:49:48.887 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-[I 15:49:48.888 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[I 15:49:48.891 NotebookApp] Serving notebooks from local directory: /home/jovyan
-[I 15:49:48.891 NotebookApp] The Jupyter Notebook is running at:
-[I 15:49:48.891 NotebookApp] http://0a3437183fee:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
-[I 15:49:48.892 NotebookApp]  or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
-[I 15:49:48.892 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 15:49:48.896 NotebookApp]
-```
-
+    [I 15:49:48.293 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+    [I 15:49:48.887 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+    [I 15:49:48.888 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+    [I 15:49:48.891 NotebookApp] Serving notebooks from local directory: /home/jovyan
+    [I 15:49:48.891 NotebookApp] The Jupyter Notebook is running at:
+    [I 15:49:48.891 NotebookApp] http://0a3437183fee:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
+    [I 15:49:48.892 NotebookApp]  or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
+    [I 15:49:48.892 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+    [C 15:49:48.896 NotebookApp]
     To access the notebook, open this file in a browser:
         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-8-open.html
     Or copy and paste one of these URLs:
