@@ -33,7 +33,7 @@ Make sure you have docker installed on your device.
      or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
     ```
 
-Copy the **LAST** url with the `token=` , it will looks something like this, but you will have your own token:
+3. Copy the **LAST** url with the `token=` , it will looks something like this, but you will have your own token:
 ```bash
 http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
 ```
@@ -42,13 +42,13 @@ This will be your jupyter work environment for the course.
 
 
 
-3. Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
+4. Clone this repo or download the zipped files - `notebook.zip` and `detecting-twitter-bot-data.zip`
 
-4. Extracte the files(unzip) and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter using the upload button.
+5. Extracte the files(unzip) and upload the `Exercise`, `Solution` and `detecting-twitter-bot-data` files into Jupyter using the upload button.
 Use the upload button like in the photo:
 ![](https://raw.githubusercontent.com/Learn-Apache-Spark/SparkML/master/upload.png)
 
-5. Follow instructions and write your findings in chat! 
+6. Follow instructions and write your findings in chat! 
 
 
 
