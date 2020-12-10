@@ -14,7 +14,7 @@ Make sure you have docker installed on your device.
     `docker run -it -p 8888:8888 jupyter/pyspark-notebook`
     
     
-   You will get similar answer back:
+   You will get similar response back:
    ```bash
    Executing the command: jupyter notebook
     [I 15:49:48.293 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
@@ -33,7 +33,7 @@ Make sure you have docker installed on your device.
      or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
     ```
 
-Copy the **LAST** url with the `token=`:
+Copy the **LAST** url with the `token=` , it will looks something like this, but you will have your own token:
 ```bash
 http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
 ```
