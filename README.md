@@ -11,7 +11,8 @@ Make sure you have docker installed on your device.
 
 2. Run the next command:
 
-    `docker run -it -p 8888:8888 jupyter/pyspark-notebook`
+    `docker run -it -p 8888:8888 jupyter/pyspark-notebook:spark-2`
+    This will download the image of juypter notebook with Apache Spark 2.4.5 version
     
     
    You will get similar response back:
