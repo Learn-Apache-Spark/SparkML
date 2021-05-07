@@ -37,7 +37,7 @@ Make sure you have docker installed on your device.
 ```bash
 http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
 ```
-past it in your browswer. 
+past it in your browser. 
 This will be your jupyter work environment for the course.
 
 
