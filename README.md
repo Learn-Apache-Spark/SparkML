@@ -1,6 +1,6 @@
 # SparkML
 Take your first steps with Spark ML and pyspark.
-Gain understanding of Spark ML with unique hands-on experience with Spark ML First steps course!
+Gain understanding of Spark ML with unique hands-on experience with the Spark ML First steps course!
 
 
 
