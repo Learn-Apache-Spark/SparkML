@@ -34,7 +34,8 @@ Make sure you have docker installed on your device.
      or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
     ```
 
-    _Getting an error about AMD?_
+    **Getting an error about AMD?**
+    
     You can leverage this image:
     `docker run -p 8888:8888 sakuraiyuta/pyspark-notebook`
     
