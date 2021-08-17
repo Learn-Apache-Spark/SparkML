@@ -34,6 +34,12 @@ Make sure you have docker installed on your device.
      or http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
     ```
 
+    _Getting an error about AMD?_
+    You can leverage this image:
+    `docker run -p 8888:8888 sakuraiyuta/pyspark-notebook`
+    
+    Note! with this image, you are running Spark 3.1.1 that has slightly different Spark API support. You will need to search the web for exceptions when those show up. We will be working on a 3.1.1 tutorial version soon. Thank you, and apologies for any inconvenience. 
+
 3. Copy the **LAST** url with the `token=` , it will looks something like this, but you will have your own token:
 ```bash
 http://127.0.0.1:8888/?token=43143a485357351ef522a1840f8c8c141a1be2bcf5f9b4de
